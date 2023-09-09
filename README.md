@@ -1,2 +1,2 @@
 # BharatIntern
-Virtual Internship Tasks for Bharat Internship in Full Stack Development
+Virtual Internship Tasks (Video conferencing website) for Bharat Internship in Full Stack Development
